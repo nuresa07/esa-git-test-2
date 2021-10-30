@@ -12,6 +12,12 @@
   <h1>Hello World</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aperiam alias consequatur nostrum cumque dicta quod
     blanditiis voluptate quas quibusdam qui eligendi, molestias autem facere. Fugit nemo excepturi voluptatem eaque.</p>
+
+  <ul>
+    <li>dapat semua</li>
+    <li>inget semua</li>
+    <li>paham semua</li>
+  </ul>
 </body>
 
 </html>
